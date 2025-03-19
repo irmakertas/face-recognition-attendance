@@ -68,6 +68,11 @@ python attendance.py
 - PostgreSQL sunucunuzun çalıştığından ve betiklerdeki bağlantı bilgilerinin veritabanı yapılandırmanızla eşleştiğinden emin olun.
 - Sistem şu an için yüz tanımayı doğrudan bayt karşılaştırması ile yapmaktadır. Daha güvenilir bir yöntem için OpenCV’nin LBPH, Eigenfaces veya derin öğrenme tabanlı yöntemlerini kullanmayı düşünebilirsiniz.
 
+## 📌Scroll down for English.
+
+
+
+
 
 
 # Face Recognition Attendance System
