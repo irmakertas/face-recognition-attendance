@@ -2,7 +2,7 @@ import cv2
 import numpy as np
 import psycopg2
 
-conn = psycopg2.connect(database="yuz_tanima", user="postgres", password="basual123", host="localhost", port="5432")
+conn = psycopg2.connect(database="yuz_tanima", user="your_username", password="your_password", host="localhost", port="5432")
 cursor = conn.cursor()
 
 face_cascade = cv2.CascadeClassifier(cv2.data.haarcascades + 'haarcascade_frontalface_default.xml')
